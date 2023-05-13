@@ -6,7 +6,7 @@ Meet2Meat Technology Stack
 ![Python3](/images/python-horizontal.svg) ![js](/images/javascript-ar21.svg) ![React](/images/reactjs-ar21.svg) ![NextJs](/images/nextjs.svg) ![express](/images/expressjs-ar21.svg) ![Tailwind](/images/tailwindcss-ar21.svg)
 
 
-![MongoDB](/images/mongodb-ar21.svg) ![MySQL](/images/mysql-horizontal.svg) ![redis](/images/redis-official.svg)
+![NodeJS](/images/nodejs-horizontal.svg) ![MongoDB](/images/mongodb-ar21.svg) ![MySQL](/images/mysql-horizontal.svg) ![redis](/images/redis-official.svg)
 
 ## Tools
 
