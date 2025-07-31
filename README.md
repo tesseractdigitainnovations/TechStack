@@ -1,4 +1,4 @@
-# TechStack
+# TechStack (TDI company)
 Meet2Meat Technology Stack
 
 ## Languages,Frameworks and Databases
@@ -14,3 +14,4 @@ Meet2Meat Technology Stack
 ![Docker](/images/docker.svg) ![AWS](/images/amazon_aws-ar21.svg) ![Nginx](/images/nginx-ar21.svg) ![GIT](/images/git-scm-ar21.svg) ![VScode](/images/visualstudio_code-ar21.svg) 
 
 ![Bash](/images/gnu_bash-official.svg) ![NPM](/images/npmjs-ar21.svg)
+
