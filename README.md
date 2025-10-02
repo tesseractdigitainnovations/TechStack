@@ -1,5 +1,5 @@
 # TechStack (TDI company)
-Meet2Meat Technology Stack
+TDI Technology Stack
 
 ## Languages,Frameworks and Databases
 
